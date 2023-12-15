@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.exe
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.deps.json
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.dll
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.dll
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\refint\ConsoleApp4.dll
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Acer\Desktop\gdjrfujfkmhdf\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ref\ConsoleApp4.dll
